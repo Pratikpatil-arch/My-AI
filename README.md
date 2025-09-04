@@ -1,1 +1,2 @@
 # My-AI.
+# my friend
